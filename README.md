@@ -70,6 +70,8 @@ This project uses a range of modern CSS3 techniques:
 
 Content such as portfolio project names, descriptions, and body paragraphs uses placeholder Lorem Ipsum text, since the focus of this project was layout and styling rather than real content.
 
+> I edited the style a little bit for improvments while implementing the PSD UI File
+
 ## Project Purpose
 
 This project is part of my front-end learning journey, focused on applying CSS3 layout and responsive design techniques to a complete single-page template after building a strong foundation in raw semantic HTML.
