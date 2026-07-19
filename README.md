@@ -65,6 +65,7 @@ This project uses a range of modern CSS3 techniques:
 - Responsive breakpoints via `@media` queries
 - `::before`/`::after` pseudo-elements for decorative shapes
 - CSS transitions for hover states and the mobile menu
+- Desktop-first Approach
 
 ## Notes
 
